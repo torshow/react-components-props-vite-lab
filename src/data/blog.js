@@ -21,7 +21,8 @@ const blogData = {
     },
     {
       id: 3,
-      title: "",Carbon vs. Silicon Biology
+      title: "Carbon vs. Silicon Biology",
+      date: "December 10, 2020",
       preview: "Exobiology, meet the Liquid Metal Species.",
       minutes: 112,
     },

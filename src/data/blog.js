@@ -1,31 +1,34 @@
 import logo from "../assets/logo";
 
 const blogData = {
-  name: "Underreacted",
+  name: "Alien Life",
   image: logo,
-  about: "A blog about learning React",
+  about: "Shairing thoughts on the existence of extraterrestrial life",
   posts: [
     {
       id: 1,
-      title: "Components 101",
-      date: "December 15, 2020",
-      preview: "Setting up the building blocks of your site",
-      minutes: 5,
+      title: "Interstellar Telepathy 101",
+      date: "Mars Equinox, 2024",
+      preview: "Tuning your neural frequencies for deep-space communication.",
+      minutes: 8,
     },
     {
       id: 2,
-      title: "React Data Flow",
-      date: "December 11, 2020",
-      preview: "Passing props is never passé",
-      minutes: 15,
+      title: "The Gravity Hovering",
+      date: "Nebula Phase 4",
+      preview: "Anti-matter propulsion is never passe whe navigating asteroid belts.",
+      minutes: 22,
     },
     {
       id: 3,
-      title: "Function vs Class Components",
-      preview: "React, meet OOJS.",
-      minutes: 47,
+      title: "",Carbon vs. Silicon Biology
+      preview: "Exobiology, meet the Liquid Metal Species.",
+      minutes: 112,
     },
   ],
 };
 
 export default blogData;
+
+
+
